@@ -1,17 +1,3 @@
-<!--
-Sync Impact Report
-- Version change: (none / template scaffold) → 1.0.0
-- Modified principles: placeholders replaced with project principles
-  - [PRINCIPLE_1_NAME] → I. Reproducible Evaluation
-  - [PRINCIPLE_2_NAME] → II. Comparable Runs
-  - [PRINCIPLE_3_NAME] → III. Test-First Scoring (NON-NEGOTIABLE)
-  - [PRINCIPLE_4_NAME] → IV. Adapter Isolation
-  - [PRINCIPLE_5_NAME] → V. Measurable Observability
-- Added sections: Measurement Constraints; Development Workflow
-- Removed sections: none (Governance retained from scaffold)
-- Follow-up TODOs: none
--->
-
 # agent-eval-platform Constitution
 
 ## Core Principles
